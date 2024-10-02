@@ -7,5 +7,6 @@ public class TipeDataCharacterDanBoolean {
         // tipe data character
         char hurufJ = 'j';
 
+        // Add commit now
     }
 }
